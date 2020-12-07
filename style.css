@@ -1,0 +1,19 @@
+body
+{
+	margin:0px auto;
+	padding: 0;
+}
+.main
+{
+	height: 170px;
+	width: 1400px;
+	margin:0px auto;
+	padding: 0;
+}
+.slider
+{
+	height: 700px;
+	width: 1350px;
+	margin:0px auto;
+	padding: 0;
+}
